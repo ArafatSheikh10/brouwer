@@ -1,0 +1,1199 @@
+/* XL Device :1200px. */
+@media (min-width: 1300px) and (max-width: 1449px) {
+    .contact-thumbnail {
+        right: -3%;
+    }
+    .top-nav-searchbar {
+        margin-left: 56px;
+        margin-right: 20px;
+    }
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .contact-thumbnail {
+        right: -2%;
+    }
+    .hero--left-content h2 {
+        font-size: 55px;
+    }
+    .brouwer-thumbnail img {
+        width: 1140px;
+        margin: 0 auto;
+    }
+    .aanbod-area {
+        padding-top: 310px;
+    }
+    .nieuws-card-content h2 {
+        font-size: 28px;
+    }
+    .custom-title h2 {
+        font-size: 55px;
+        line-height: 60px;
+    }
+    .projecten-slider-area {
+        padding: 100px;
+    }
+    .recente-project-area {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+    .area-title h3 {
+        font-size: 42px;
+        line-height: 44px;
+    }
+    .nieuws-card.nieuws-card-two {
+        min-height: 450px;
+    }
+    .subtitel-area {
+        padding: 90px 0;
+    }
+   .top-nav-searchbar {
+        margin-left: 64px;
+        margin-right: 25px;
+    }
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .contact-thumbnail img {
+        width: 260px;
+    }
+    .contact-thumbnail {
+        right: 4%;
+        top: -92%;
+    }
+    .nieuws-card-content h2 {
+        font-size: 24px;
+        line-height: 26px;
+        margin-top: 14px;
+    }
+    .nieuws-card-content p br {
+        display: none;
+    }
+    .contact-card h3 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .area-title h2 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .brouwer-group-content h2 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .custom-slider-text h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .hero--left-content h2 {
+        font-size: 48px;
+        line-height: 60px;
+        margin-top: 10px;
+    }
+    .main-menu ul li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .main-menu ul li {
+        margin-left: 19px;
+    }
+    .main-men-btn a {
+        margin-left: 8px;
+    }
+    .custom-btn {
+        font-size: 14px;
+        line-height: 23px;
+        padding: 12px 14px;
+    }
+    .top-nav ul li a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .hero-wraper {
+        padding: 80px 120px;
+    }
+    .infinite-slider {
+        height: 100px;
+        padding: 80px 0;
+    }
+    .brouwer-group-item h2 {
+        font-size: 38px;
+        line-height: 40px;
+    }
+    .brouwer-group-item p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .brouwer-group.group-one {
+        padding-bottom: 335px;
+    }
+    .brouwer-thumbnail img {
+        width: 970px;
+    }
+    .brouwer-thumbnail {
+        top: 75%;
+    }
+    .brouwer-group.group-one {
+        padding-bottom: 250px;
+    }
+    .aanbod-area {
+        padding-top: 330px;
+        padding-bottom: 80px;
+    }
+    .area-subtitel h3 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .custom-slider-text p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .nieuws-area {
+        padding: 80px 0;
+    }
+    .area-title h3 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .area-title h5 {
+        margin-bottom: 4px;
+    }
+    .nieuws-card-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .nieuws-card-content span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .footer-list-title h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .footer-list ul li a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .single-social-icon img {
+        width: 20px;
+    }
+    .single-social-icon {
+        width: 35px;
+        height: 35px;
+    }
+    .footer-area {
+        padding: 70px 0;
+    }
+    .custom-title h2 {
+        font-size: 52px;
+        line-height: 60px;
+    }
+    .schaftwagen-card {
+        padding: 16px;
+    }
+    .schaftwagen-content h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .filters-area {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .filters-card {
+        padding: 20px;
+    }
+    .waarden-area {
+        padding-top: 100px;
+    }
+    .team-area {
+        padding: 70px 0;
+    }
+    .nieuws-card {
+        min-height: 470px;
+    }
+    .projecten-slider-area {
+        padding: 80px 0;
+    }
+    .recente-project-area {
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    .area-title h4 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    section.recente-isotope {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    .nieuws-card.nieuws-card-two {
+        min-height: 370px;
+    }
+    .subtitel-area {
+        padding: 80px 0;
+    }
+    .single-custom-text h4 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .single-custom-text {
+        margin-top: 30px;
+    }
+    .werken-bij-content-wrapper {
+        margin-top: 70px;
+    }
+    .download-area {
+        padding: 80px 0;
+    }
+    .top-nav-searchbar {
+        margin-left: 60px;
+        margin-right: 20px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .nieuws-card-content h2 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-top: 12px;
+    }
+    .nieuws-card-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .nieuws-card-content p br {
+        display: none;
+    }
+    .nieuws-card-content span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .nieuws-card {
+        padding: 10px;
+        min-height: 420px;
+        margin-top: 16px;
+    }
+    .nieuws-card-content {
+        margin-left: 6px;
+        margin-top: 20px;
+    }
+    .area-title h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .area-title h5 {
+        font-size: 14px;
+        line-height: 14px;
+        margin-bottom: 2px;
+    }
+    .nieuws-area {
+        padding: 70px 0;
+    }
+    .hero--left-content h2 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-top: 14px;
+    }
+    .custom-slider-item {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .hero-wraper {
+        border-radius: 16px;
+        padding: 70px 60px;
+    }
+    .area-subtitel h3 {
+        font-size: 34px;
+        line-height: 40px;;
+    }
+    .area-subtitel p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .custom-slider-text h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .custom-slider-text p {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .hero--right-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .custom-btn.gray-btn {
+        padding: 12px 20px;
+    }
+    .custom-btn {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .infinite-slider {
+        height: 100px;
+        padding: 70px 0;
+    }
+    .infinite-slide ul li {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .infinite-slide ul li img {
+        width: 16px;
+        margin-right: 6px;
+    }
+    .brouwer-group-content span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .brouwer-group-content h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .brouwer-group-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .brouwer-group-content p br {
+        display: none;
+    }
+    .custom-btn {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 12px 18px;
+    }
+    .brouwer-group-item h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .brouwer-group-item p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .brouwer-group.group-one {
+        padding-bottom: 260px;
+    }
+    .aanbod-area {
+        padding-top: 220px;
+        padding-bottom: 60px;
+    }
+    .brouwer-thumbnail img {
+        width: 740px;
+    }
+    .owl-next {
+        height: 28px;
+        width: 28px;
+    }
+    .brouwer-group.group-one {
+        padding-bottom: 220px;
+    }
+    .brouwer-thumbnail {
+        top: 75%;
+    }
+    .area-title h2 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 18px;
+    }
+    .contact-card h3 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 25px;
+    }
+    .contact-card span {
+        padding: 10px 11px;
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .contact-thumbnail img {
+        width: 190px;
+    }
+    .contact-thumbnail {
+        right: 5%;
+        top: -100%;
+    }
+    .contact-area {
+        padding: 70px 0;
+    }
+    .footer-list-title h4 {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .footer-list ul li a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .footer-list ul li {
+        margin-bottom: 2px;
+    }
+    .footer-content p br {
+        display: none;
+    }
+    .single-social-icon img {
+        width: 18px;
+    }
+    .single-social-icon {
+        width: 30px;
+        height: 30px;
+    }
+    .footer-area {
+        padding: 60px 0;
+    }
+    .custom-title h2 {
+        font-size: 42px;
+        line-height: 44px;
+    }
+    .custom-text p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .filters-card {
+        padding: 12px;
+    }
+    .filters-card-title h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .filters-card-select h4 {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .filters-card-checkbox h4 {
+        font-size: 14px;
+        line-height: 14px;
+        margin-top: 16px;
+    }
+    label.form-check-label {
+        font-size: 14px;
+        line-height: 14px;
+        margin-left: 5px;
+    }
+    .schaftwagen-card {
+        padding: 10px;
+        margin-bottom: 16px;
+    }
+    .schaftwagen-icon {
+        margin-top: 18px;
+    }
+    .schaftwagen-icon ul li {
+        margin-right: 6px;
+        width: 26px;
+        height: 26px;
+    }
+    .schaftwagen-content {
+        margin-top: 16px;
+    }
+    .schaftwagen-content h2 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .schaftwagen-content p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .filters-area {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .schaftwagens-area {
+        padding: 70px 0;
+    }
+    .contact-card {
+        padding: 22px;
+        margin-top: 100px;
+    }
+    .contact-card a {
+        padding: 12px 18px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .team-card-info h4 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .infinite-slider-logo {
+        padding-top: 70px;
+    }
+    .Service-area {
+        padding: 70px 0;
+    }
+    .projecten-slider-item .owl-next {
+        bottom: -100%;
+    }
+    .projecten-slider-area {
+        padding: 80px 0;
+    }
+    .area-title h4 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .recente-project-area {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+    section.recente-isotope {
+        padding-top: 40px;
+        padding-bottom: 70px;
+    }
+    .nieuws-card.nieuws-card-two {
+        min-height: 300px;
+    }
+    .subtitel-area {
+        padding: 70px 0;
+    }
+    .faq-accordion-area {
+        padding: 70px 0;
+    }
+    .faq-accordion-title h4 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .werken-bij-content-wrapper {
+        margin-top: 70px;
+    }
+    .single-custom-text h4 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .werken-bij-content-area {
+        padding-bottom: 60px;
+    }
+    .contact-form {
+        padding: 24px;
+    }
+    .download-area {
+        padding: 70px 0;
+    }
+    .download-text h4 {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+
+}
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 991px) {
+    .header-menu {
+        display: none;
+    }
+    section.responsiv-menu {
+        display: block;
+    }
+
+
+}
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .hero--left-content h2 {
+        font-size: 30px;
+        line-height: 34px;
+        margin-top: 12px;
+    }
+    .hero--left-content h2 br {
+        display: none;
+    }
+    .hero-wraper {
+        border-radius: 16px;
+        padding: 50px 12px;
+    }
+    .hero--left-content span {
+        font-size: 12px;
+        line-height: 13px;
+        padding: 8px 9px;
+    }
+    .hero--right-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .hero--right-content p br {
+        display: none;
+    }
+    .custom-btn {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 10px 14px;
+    }
+    .custom-btn.gray-btn {
+        padding: 10px 14px;
+    }
+    .custom-slider-item {
+        margin-bottom: 16px;
+    }
+    .custom-slider {
+        max-width: 100%;
+    }
+    .infinite-slider {
+        height: 100px;
+        padding: 60px 0;
+    }
+    .infinite-slide ul li {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .infinite-slide ul li img {
+        width: 14px;
+    }
+    .brouwer-group-content span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .brouwer-group-content {
+        margin-top: 16px;
+    }
+    .brouwer-group-content h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .brouwer-group-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .brouwer-group-content p br {
+        display: none;
+    }
+    .brouwer-group-item h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .brouwer-group-item p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .hero-content {
+        display: block;
+    }
+    .contact-thumbnail img {
+        width: 164px;
+    }
+    .contact-thumbnail {
+        position: absolute;
+        right: -2%;
+        top: -70%;
+        z-index: 999;
+    }
+ /*    .owl-next {
+        left: 11%;
+    } */
+    .brouwer-group-btn a {
+        margin-right: 14px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .custom-btn {
+        border: 1px solid #C6C7D3;
+    }
+    a.custom-btn.video-btn img {
+        width: 14px;
+    }
+    .brouwer-group-item:last-child {
+        margin-right: 0;
+    }
+    .brouwer-thumbnail img {
+        width: 320px;
+    }
+    .brouwer-group.group-one {
+        padding-bottom: 100px;
+    }
+    .aanbod-area {
+        padding-top: 120px;
+        padding-bottom: 60px;
+    }
+    .brouwer-thumbnail {
+        top: 93%;
+    }
+    .area-subtitel h3 {
+        font-size: 31px;
+        line-height: 38px;
+    }
+    .area-subtitel p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .custom-slider.custom-slider-two {
+        max-width: 100%;
+    }
+    .custom-slider-text p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .nieuws-area {
+        padding: 60px 0;
+    }
+    .area-title h5 {
+        font-size: 14px;
+        line-height: 14px;
+        margin-bottom: 4px;
+    }
+    .area-title h3 {
+        font-size: 32px;
+        line-height: 30px;
+    }
+    .nieuws-card-content {
+        margin-left: 9px;
+        margin-top: 25px;
+    }
+    .nieuws-card-content h2 {
+        font-size: 28px;
+        line-height: 30px;
+        margin-top: 12px;
+    }
+    .nieuws-card-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .nieuws-card-content span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .nieuws-card {
+        padding: 18px;
+        min-height: 480px;
+    }
+    .footer-area {
+        padding: 50px 0;
+    }
+    .social-icon {
+        display: flex;
+        align-items: center;
+        margin-top: 30px;
+        justify-content: center;
+    }
+    .single-social-icon {
+        width: 24px;
+        height: 24px;
+    }
+    .single-social-icon img {
+        width: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .social-icon {
+        margin-top: 50px;
+    }
+    .footer-list-title {
+        margin-top: 75px;
+    }
+    .copyright-content {
+        display: block;
+        text-align: center;
+    }
+    .copyright-area-responsive {
+        display: block;
+    }
+    .copyright-area {
+        display: none;
+    }
+    .copyright-area-responsive {
+        background: #0E1023;
+        padding: 28px 0;
+    }
+    .copyright-right {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .copyright-right p {
+        color: #696A73;
+        margin-bottom: 32px;
+    }
+    .contact-area-responsive {
+        display: block;
+    }
+    .contact-area {
+        display: none;
+    }
+    .contact-card {
+        padding: 32px;
+        margin-top: 16px;
+    }
+    .contact-card.green-card a {
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #E4F1D4;
+        color: #1A2050;
+    }
+    .contact-card a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .area-title h2 {
+        font-size: 32px;
+        line-height: 36px;
+        margin-bottom: 20px;
+    }
+    .contact-area-responsive {
+        padding: 50px 0;
+        border-radius: 16px 16px 0 0;
+    }
+    .custom-btn.white-btn {
+        margin-left: 10px;
+    }
+    .main-menu-btn {
+        margin-left: 0;
+    }
+    .main-menu-btn a {
+        margin-left: 0;
+    }
+    .custom-title h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .custom-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .custom-title h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .schaftwagens-area {
+        padding: 60px 0;
+    }
+    .filters-card {
+        margin-bottom: 22px;
+    }
+    .schaftwagen-content {
+        margin-top: 20px;
+    }
+    .schaftwagen-content h2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .schaftwagen-content p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .filters-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .waarden-area {
+        padding-top: 70px;
+    }
+    .waarden-thumbnail {
+        margin-top: 60px;
+    }
+    .productie-proces-area {
+        padding-top: 10px;
+    }
+    .single-proces-list p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .single-proces-list span {
+        font-size: 20px;
+        line-height: 22px;
+        margin-right: 18px;
+    }
+    .area-title {
+        margin-top: 20px;
+    }
+    .productie-proces-area {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .team-card-thumbnail img {
+        width: 60px;
+    }
+    .team-card-info {
+        margin-left: 16px;
+    }
+    .team-card-info h4 {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 4px;
+    }
+    .team-card-info span {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .team-card {
+        width: 300px;
+        height: 100px;
+    }
+    .team-area {
+        padding: 60px 0;
+    }
+    .brouwer-group {
+        padding: 60px 0;
+    }
+    .infinite-slider-logo {
+        padding-top: 60px;
+    }
+    .probleem-met-area {
+        padding: 60px 0;
+    }
+    .Service-area {
+        padding: 60px 0;
+    }
+    .area-title p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .area-title p br {
+        display: none;
+    }
+    .area-title h3 br {
+        display: none;
+    }
+    .projecten-slider-text h4 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .projecten-slider-area {
+        padding: 60px 0;
+    }
+    .recente-isotope-menu {
+        display: block;
+        text-align: center;
+    }
+    .recente-isotope-menu li {
+        font-size: 14px;
+        padding: 10px 16px;
+        line-height: 20px;
+        margin-bottom: 16px;
+    }
+    .recente-project-area {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .area-title h4 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    section.recente-isotope {
+        padding-top: 40px;
+        padding-bottom: 60px;
+        text-align: center;
+    }
+    .nieuws-card.nieuws-card-two {
+        min-height: 360px;
+    }
+    .contact-form {
+        padding: 28px;
+    }
+    .contact-form-btn button {
+        width: 100%;
+    }
+    .subtitel-area {
+        padding: 60px 0;
+    }
+    .faq-accordion-area {
+        padding: 60px 0;
+    }
+    .faq-accordion-title h4 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .faq-accordion {
+        margin-top: 20px;
+    }
+    .faq-accordion .accordion-button h5 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .faq-accordion .accordion-body p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .faq-accordion .accordion-item {
+        margin-bottom: 12px;
+    }
+    .faq-accordion .accordion-button {
+        padding: 20px 18px;
+    }
+    .form-step h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .contact-form-info {
+        margin-bottom: 20px;
+    }
+    .step-form {
+        padding: 60px 0;
+    }
+    .contact-form-btn.contact-form-btn-two {
+        display: block;
+    }
+    .contact-form-btn.contact-form-btn-two button {
+        margin-bottom: 12px;
+    }
+    .werken-bij-content-area {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .werken-bij-content-wrapper {
+        margin-top: 60px;
+    }
+    .single-custom-text p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .single-custom-text h4 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .custom-title h2 br {
+        display: none;
+    }
+    .Service-btn span {
+        padding: 2px 5px;
+        margin: 0px 2px;
+        font-size: 14px;
+        line-height: 15px;
+        border-radius: 4px;
+    }
+    .Service-area-two-thumbnail img {
+        width: 345px;
+    }
+    .Service-area.Service-area-two {
+        padding-bottom: 75px;
+    }
+    .single-custom-text.single-custom-mt {
+        margin-top: 60px;
+    }
+    .single-custom-text ul li {
+        font-size: 14px;
+        line-height: 22px;
+        margin-left: 34px;
+    }
+    .owl-next {
+        right: 5%;
+    }
+    .owl-prev {
+        right: 16%;
+    }
+    .download-area {
+        padding: 60px 0;
+    }
+    .download-text h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .download-wrapper {
+        padding: 16px 16px;
+        margin-bottom: 16px;
+    }
+    button#pills-four-tab {
+        display: none;
+    }
+    button#pills-five-tab {
+        display: none;
+    }
+    .schaftwagen-tabs .nav {
+        bottom: -41%;
+        left: 3%;
+    }
+    .schaftwagen-tabs {
+        bottom: 18%;
+    }
+    .schaftwagens-wrapper {
+        text-align: center;
+    }
+    .schaftwagen-box {
+        display: none;
+    }
+    .schaftwagen-box-responsive {
+        display: block;
+    }
+    .schaftwagen-box-responsive {
+        display: block;
+        background: #76B82A;
+        border-radius: 16px;
+    }
+    .schaftwagen-icon-two {
+        bottom: -13px;
+        left: 25%;
+    }
+    .single-custom-text.single-custom-text-mt {
+        margin-top: 80px;
+    }
+    .productie-content {
+        padding: 0 30px;
+    }
+    .faq-accordion-title h4 br {
+        display: none;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {}
